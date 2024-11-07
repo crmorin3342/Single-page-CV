@@ -1,0 +1,51 @@
+body {
+    border: 2px solid black;
+}
+.top-line {
+    margin-top: 5%;
+    margin-bottom: -3%;
+    margin-left: 5%;
+    border-bottom: 3px solid black;
+    width: 60%;
+  }
+.top {
+    margin-bottom: 5%;
+}
+.bot {
+    margin-top: 5%;
+}
+.guts {
+    margin-left: 5%;
+}
+.MyName {
+    color: black;
+    font-size: 34px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.myjob {
+    color: rgb(84, 204, 154);
+    font-size: 20px;
+}
+.contact {
+    font-size: 18px;
+}
+.MyRole {
+    color: rgb(84, 204, 154);
+    font-size: 20px;
+}
+.EduTitle {
+    color:rgb(0, 151, 252);
+    font-size: 20px;
+}
+.base {
+    font-size: 18px;
+}
+.lists {
+    color:black;
+    font-size: 16px;
+    margin-left: -2%;
+}
+.ExperienceSection {
+    color:rgb(0, 151, 252);
+    font-size: 20px;
+}
